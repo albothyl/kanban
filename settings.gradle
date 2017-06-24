@@ -1,0 +1,4 @@
+rootProject.name = 'kanban'
+include 'kanban-interfaces'
+include 'kanban-domain'
+
